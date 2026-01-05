@@ -1,12 +1,12 @@
 <h1>Hi, I'm Mike! <br/>Identity Access Management (IAM) <br/>Privileged Access Management (PAM) <br /> <a href="https://www.linkedin.com/in/mikesimon123/">LinkedIn Page</a>,<br/> <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/MikeSimonTech/Active-Directory-Lab)
-  - [Okta Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/MikeSimonTech/Active-Directory-Lab))
-  - [CyberArk Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/MikeSimonTech/Active-Directory-Lab))
+  - [Okta Home Lab](https://github.com/MikeSimonTech/Active-Directory-Lab)
+  - [CyberArk Home Lab](https://github.com/MikeSimonTech/Active-Directory-Lab)
 
-<h2>Certifications</h2>
+<h2>My Certifications</h2>
 
 - [ Okta Certified Professional ](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
