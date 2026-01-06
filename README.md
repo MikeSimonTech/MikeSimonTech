@@ -1,6 +1,6 @@
 <h1>About Me</h1>Hi, I'm Mike Simon! <br/>I am an Identity and Access Management (IAM) professional focused on building secure, scalable, and auditable identity solutions for modern enterprises.
 
-My background comes from hands-on IT support and security operations, which gives me a practical, real-world approach to IAM. I design identity systems with the assumption that **accounts will be attacked**, credentials will be leaked, and controls must limit blast radius rather than rely on trust. <br /> <a href="https://www.linkedin.com/in/mikesimon123/">LinkedIn Page</a>,<br/> 
+My background comes from hands-on IT support and security operations, which gives me a practical, real-world approach to IAM. I design identity systems with the assumption that **accounts will be attacked**, credentials will be leaked, and controls must limit blast radius rather than rely on trust. <br /> <a href="https://www.linkedin.com/in/mikesimon123/">Connect with me on LinkedIn</a>,<br/> 
 ## How to Use This Portfolio
 
 Each section of this repository represents a real IAM domain commonly owned by IAM Engineers and Architects in enterprise environments.
